@@ -49,3 +49,7 @@ body{
       background-color: lightgrey;
 
   }
+
+.task-tabs div {
+  cursor:pointer;
+}
